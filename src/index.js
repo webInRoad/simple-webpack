@@ -1,3 +1,3 @@
 import { welcome } from './welcome.js';
 
-document.write(welcome('Jane'));
+document.write(welcome('lisi'));
